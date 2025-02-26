@@ -52,7 +52,6 @@
 
 ###
 
-
 <h2 align="left">Social Links</h2>
 
 <div align="left">
@@ -76,4 +75,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/LucaMimmo05/LucaMimmo05/output/snake.svg" alt="Snake animation" />
 
+###
