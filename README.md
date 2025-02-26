@@ -75,6 +75,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LucaMimmo05/LucaMimmo05/output/snake.svg" alt="Snake animation" />
 
 ###
