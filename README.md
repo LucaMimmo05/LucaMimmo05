@@ -55,7 +55,7 @@
 <h2 align="left">Social Links</h2>
 
 <div align="left">
-  <a href="www.linkedin.com/in/luca-mimmo" target="_blank">
+  <a href="www.linkedin.com/in/lucamimmo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
  
