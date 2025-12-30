@@ -5,51 +5,13 @@
 I'm a passionate **Web Developer** with a strong focus on **modern frontend** and **clean, scalable architectures**.  
 I enjoy turning ideas into solid products, paying close attention to **UI/UX, performance, and code quality**.
 
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-- HTML, CSS, JavaScript
-- TypeScript
-- React
-- Tailwind CSS
-
-**Backend**
-- Java
-- Quarkus
-- Node.js
-- REST APIs
-
-**Databases**
-- SQL
-- MongoDB
-
-**Tools & Workflow**
-- Git & GitHub
-- pnpm
-- Figma
-- Linux / WSL
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaMimmo05&layout=compact&theme=transparent)
-
----
 
 ## 📌 What I’m working on
 - Personal dashboards and productivity tools
 - Full-stack web applications
 ---
 
-## 📫 Get in touch
-- GitHub: https://github.com/LucaMimmo05
-
-> Always learning, always building.
-
-<h2 align="left">I code with</h2>
+## I code with
 
 ###
 
@@ -100,3 +62,6 @@ I enjoy turning ideas into solid products, paying close attention to **UI/UX, pe
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+> Always learning, always building.
+
