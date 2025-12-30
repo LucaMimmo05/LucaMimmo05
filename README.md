@@ -1,18 +1,53 @@
-<h1 align="left">🚀Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Luca Mimmo
 
-###
+💻 Web Developer | 🎨 UI-focused | 🚀 Always building
 
-<p align="left">👋 Hi there, I'm Luca Mimmo! I'm a passionate Web Developer currently studying at ITS Incom. With a strong background in web development, design, and system assembly, I enjoy crafting elegant and efficient solutions for the digital world.</p>
+I'm a passionate **Web Developer** with a strong focus on **modern frontend** and **clean, scalable architectures**.  
+I enjoy turning ideas into solid products, paying close attention to **UI/UX, performance, and code quality**.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🛠 Tech Stack
 
-###
+**Frontend**
+- HTML, CSS, JavaScript
+- TypeScript
+- React
+- Tailwind CSS
 
-<p align="left">💻 I have experience in web development with HTML, CSS, and JavaScript, programming in Java, and design using Photoshop and UI/UX principles. Additionally, I have hands-on experience in system assembly and maintenance from a past internship. 🛠️<br><br>🎓 I studied at ITS Incom in the Web Developer course and previously attended a Technical Institute specializing in Informatics. I also completed a two-week internship as a system administrator and hardware technician. 🔧<br><br>🌍 I speak Italian as my native language, have an intermediate level of English, and a good knowledge of Spanish.<br><br>📩 Feel free to reach out for collaborations, discussions, or just to say hi! 😊</p>
+**Backend**
+- Java
+- Quarkus
+- Node.js
+- REST APIs
 
-###
+**Databases**
+- SQL
+- MongoDB
+
+**Tools & Workflow**
+- Git & GitHub
+- pnpm
+- Figma
+- Linux / WSL
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaMimmo05&layout=compact&theme=transparent)
+
+---
+
+## 📌 What I’m working on
+- Personal dashboards and productivity tools
+- Full-stack web applications
+---
+
+## 📫 Get in touch
+- GitHub: https://github.com/LucaMimmo05
+
+> Always learning, always building.
 
 <h2 align="left">I code with</h2>
 
