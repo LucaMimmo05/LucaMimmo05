@@ -1,19 +1,16 @@
-# 👋 Hi, I'm Luca Mimmo
+# 👋 Ciao, sono Luca Mimmo
 
-💻 Web Developer | 🎨 UI-focused | 🚀 Always building
+💻 Junior Full-Stack Developer | 🎓 ITS Web Developer @ ITS Incom | 📍 Gallarate/Varese
 
-I'm a passionate **Web Developer** with a strong focus on **modern frontend** and **clean, scalable architectures**.  
-I enjoy turning ideas into solid products, paying close attention to **UI/UX, performance, and code quality**.
+Sviluppatore full-stack con stack principale **Java, Spring Boot, React, TypeScript, PostgreSQL e Supabase**.
+Mi piace costruire applicazioni web solide, dal backend al frontend, curando architettura, qualità del codice e user experience.
 
+## 🔗 Link
+- Portfolio: [lucamimmo.vercel.app](https://lucamimmo.vercel.app)
 
-## 📌 What I’m working on
-- Personal dashboards and productivity tools
-- Full-stack web applications
----
+  ###
 
-## I code with
-
-###
+## 🛠️ Stack con cui lavoro
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -52,11 +49,6 @@ I enjoy turning ideas into solid products, paying close attention to **UI/UX, pe
 
 </div>
 
-
-
-
-
-
 ###
 
 <picture>
@@ -64,6 +56,3 @@ I enjoy turning ideas into solid products, paying close attention to **UI/UX, pe
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
-> Always learning, always building.
-
