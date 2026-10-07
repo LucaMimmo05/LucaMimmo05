@@ -6,7 +6,7 @@ Sviluppatore full-stack con stack principale **Java, Spring Boot, React, TypeScr
 Mi piace costruire applicazioni web solide, dal backend al frontend, curando architettura, qualità del codice e user experience.
 
 ## 🔗 Link
-- Portfolio: [lucamimmo.vercel.app](https://lucamimmo.vercel.app)
+- Portfolio: [lucamimmo.dev](https://lucamimmo.dev)
 
   ###
 
